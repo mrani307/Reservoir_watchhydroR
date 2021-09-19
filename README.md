@@ -11,7 +11,7 @@ month_wise_data_02             : Divide our dataset into months
 month_wise_dataset_03          : Determine the accumulated rainfall variables to be used for modelling 
 
 
-model_run                      : Trial and error to determine the model shape, and thus finalise on the model 
+modelling_03                      : Trial and error to determine the model shape, and thus finalise on the model 
 
 
 denormalisation_04             : Determine the max-min values to rescale the model output 
@@ -20,7 +20,7 @@ denormalisation_04             : Determine the max-min values to rescale the mod
 data_visualisation_05.1        : Combining all the models and cheching the graphs of R.V_modelled vs R.V_observed for the training and validation years 
 
 
-model_run_05.2                 : Runing the model
+model_run05.2                 : Runing the model
 
 
 
